@@ -1,5 +1,5 @@
 # Hi there 👋 <br>
-#StandWithUkraine (https://standwithukraine.com.ua/) 🇺🇦
+[#StandWithUkraine](https://standwithukraine.com.ua/) 🇺🇦
 
 ## Education
 My name is Aristarh, I am a student and studying to be a sound engineer. I am the bassist, pianist and vocalist of the band Angina 🎹
