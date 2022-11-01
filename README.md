@@ -1,7 +1,7 @@
 # Hi there 👋 <br>
 #StandWithUkraine (https://standwithukraine.com.ua/) 🇺🇦
 
-## Eduction
+## Education
 My name is Aristarh, I am a student and studying to be a sound engineer. I am the bassist, pianist and vocalist of the band Angina 🎹
 > I sincerely do not know why you need this information, but let it be
 
@@ -9,7 +9,7 @@ My name is Aristarh, I am a student and studying to be a sound engineer. I am th
 I have 2 years of commercial development in JavaScript as a frontend developer (React, Handlebars, Svetle), I also write in Golang and Python. 
 Improving and continuing to study UI/UX design 🖥
 
-📌I participate in the development of projects: Fond Liberica (https://gitlab.com/liberica-ide), Calmira GNU/Linux(-libre) (https://github.com/CalmiraLinux) and testing the Yamux project (https:// gitlab.com/KirMozor/Yamux)
+📌 I participate in the development of projects: Fond Liberica (https://gitlab.com/liberica-ide), Calmira GNU/Linux(-libre) (https://github.com/CalmiraLinux) and testing the Yamux project (https:// gitlab.com/KirMozor/Yamux)
 
 ## Linux, UNIX
 I love Linux and build my professional work around this kernel and operating systems based on it, such as Arch Linux (https://archlinux.org/), Fedora (https://getfedora.org/) and Calmira GNU/Linux(- libre) (https://gitlab.com/calmiralinux) 🐧
