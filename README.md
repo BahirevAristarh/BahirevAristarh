@@ -3,7 +3,7 @@
 
 ## About me
 My name is Aristarh, I am a student and studying to be a sound engineer. I am the bassist, pianist and vocalist of the band Angina 🎹 <br>
-I study English, Polish and Finnish, integrating them into everyday and professional life. I study for communication and further admission to a Finnish university (https://www.utu.fi/fi) 🇫🇮
+I study English, Polish and Finnish, integrating them into everyday and professional life, but also for communication and further admission to a [Finnish university](https://www.utu.fi/fi) 🇫🇮
 > I sincerely do not know why you need this information, but let it be
 
 ## Development
