@@ -21,4 +21,4 @@ I love Linux and build my professional work around this kernel and operating sys
 2. [Instagram](https://instagram.com/bahirev_aristarh) is my main social network (I'm just a Meta employee and I like their products)
 3. For the last 3 years, [Telegram](https://t.me/aristarh_bahirev) has been the main messenger in all areas of life and I recommend writing in private messages
 4. For developing joint and personal projects, I use [GitLab](https://gitlab.com/AristarhBahirev)
-5. Additional (backup) developer account on [GitHub](https://github.com/BahirevAristarh). t is on it that you are currently reading this README.md
+5. Additional (backup) developer account on [GitHub](https://github.com/BahirevAristarh). It is on it that you are currently reading this README.md
